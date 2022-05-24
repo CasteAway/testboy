@@ -8,7 +8,7 @@ tar xf ngrok.zip
 
 Copy ngrok.exe C:\Windows\System32
 
-cmd /c echo ./ngrok.exe authtoken "231N2bGaZZjDDbxFnvMlHOM3yoB_3b1XcvUBkPh3pLJWVtqvp" >a.ps1
+cmd /c echo ./ngrok.exe authtoken "29buLfkebVIWsyTlFwZlKQi1qe7_7yd3TcPjHaCgK4EZLDxxN" >a.ps1
 
 cmd /c echo cmd /k start ngrok.exe tcp 3389 >>a.ps1
 
